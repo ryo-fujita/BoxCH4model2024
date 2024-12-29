@@ -1,0 +1,7 @@
+atmosTargetFile:	targetAtmosPara.txt
+numCase:	500
+numLoop:	1
+inventory:	CEDS
+emsNatr:	S20
+emsBB:	M17
+lossOH:	Stevenson20

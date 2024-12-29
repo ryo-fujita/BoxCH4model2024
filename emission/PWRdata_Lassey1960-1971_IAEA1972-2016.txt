@@ -1,0 +1,74 @@
+The annual electrical power production by pressurized water reactors (PWR), which was
+taken from Lassey et al. (2007a, ACP) for 1960–1971 and assumed to be zero
+before 1960. For 1972–2015, the database of annual energy output for PWRs from International
+Atomic Energy Agency’s Power Reactor Information System (IAEA PRIS, 2017) was used.
+See section 2.1 of Fujita et al. 2025, JGR for more details.
+
+Reference:
+Lassey, K. R., Etheridge, D. M., Lowe, D. C., Smith, A. M., & Ferretti, D. F. (2007a). 
+Centennial evolution of the atmospheric methane budget: what do the carbon isotopes tell us? 
+Atmospheric Chemistry and Physics, 7(8), 2119-2139. doi:10.5194/acp-7-2119-2007
+
+IAEA PRIS. (2017). Country statistics: the database of annual energy output for pressurized water reactors from
+International Atomic Energy Agency’s Power Reactor Information System. Available at
+https://www.iaea.org/pris/ (date of access: 30/10/2017).
+
+fyr	PWR (GWa)
+--------------------
+1960.5	652
+1961.5	652
+1962.5	1698
+1963.5	1698
+1964.5	2713
+1965.5	2713
+1966.5	2955
+1967.5	8053
+1968.5	9977
+1969.5	13346
+1970.5	19002
+1971.5	30010
+1972.5	40055 
+1973.5	57278 
+1974.5	96402 
+1975.5	162389 
+1976.5	183311 
+1977.5	246669 
+1978.5	298060 
+1979.5	285187 
+1980.5	337856 
+1981.5	440339 
+1982.5	480540 
+1983.5	547684 
+1984.5	674484 
+1985.5	806988 
+1986.5	900494 
+1987.5	999117 
+1988.5	1105186 
+1989.5	1189067 
+1990.5	1248261 
+1991.5	1301626 
+1992.5	1364611 
+1993.5	1377003 
+1994.5	1424895 
+1995.5	1454393 
+1996.5	1539181 
+1997.5	1516558 
+1998.5	1563071 
+1999.5	1599534 
+2000.5	1682288 
+2001.5	1719111 
+2002.5	1770943 
+2003.5	1793919 
+2004.5	1839221 
+2005.5	1853044 
+2006.5	1866929 
+2007.5	1860595 
+2008.5	1879994 
+2009.5	1828807 
+2010.5	1878513 
+2011.5	1832386 
+2012.5	1732564 
+2013.5	1748822 
+2014.5	1657992 
+2015.5	1688747 
+2016.5	1693773 
