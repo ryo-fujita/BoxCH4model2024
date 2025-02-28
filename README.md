@@ -1,7 +1,8 @@
 # BoxCH4model2024
 Simple atmospheric one-box model for CH₄ and its isotopes with particle filter used in Fujita et al. 2025, JGR-Atmosphere.
 
-Coded in MATLAB (Tested in versions 2023a)
+Coded in MATLAB (Tested in versions 2023a).
+
 The Statistics and Machine Learning Toolbox in MATLAB needs to be installed.
 
 This repository contains the main programs and text files necessary for running the model and generating main outputs.
